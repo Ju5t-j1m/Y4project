@@ -25,4 +25,4 @@ Specilizing in Computer Science - Cyber Security\
 Graduating 2022\
 \
 Contact\
-Email: Student(976690@swansea.ac.uk) Personal (jimnor05@gmail.com)\
+Email: Student(976690@swansea.ac.uk) Personal (jimnor05@gmail.com)
