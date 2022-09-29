@@ -25,6 +25,8 @@ Symbols[' ', '!', '$', '%', '&', '*', '(', ')', ':', ';', '-', '+', '=', '?', '@
 \
 Thanks for reading
 
+![prog](https://user-images.githubusercontent.com/56307119/193156316-6651ea6a-57bc-461c-9622-1accaee51ed1.PNG)
+
 \
 Student Info\
 Jimmy Norman(BSc) Swansea University (976690)\
