@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Help</class>
+ <widget class="QDialog" name="Help">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Help</string>
+  </property>
+  <property name="sizeGripEnabled">
+   <bool>false</bool>
+  </property>
+  <property name="modal">
+   <bool>false</bool>
+  </property>
+  <widget class="QDialogButtonBox" name="buttonBox">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>450</y>
+     <width>341</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+   <property name="standardButtons">
+    <set>QDialogButtonBox::Ok</set>
+   </property>
+   <property name="centerButtons">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>298</x>
+     <y>0</y>
+     <width>100</width>
+     <height>100</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>logo res.png</pixmap>
+   </property>
+   <property name="textInteractionFlags">
+    <set>Qt::NoTextInteraction</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>1</x>
+     <y>0</y>
+     <width>291</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="font">
+    <font>
+     <underline>false</underline>
+    </font>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; text-decoration: underline; color:#0055ff;&quot;&gt;V3 HSED J.N https://github.com/Ju5t-j1m/Y4project&lt;/span&gt;&lt;span style=&quot; color:#0055ff;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-style:italic; color:#000000;&quot;&gt;This program was made with python3.8 + the PyQt toolkit&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; color:#000000;&quot;&gt;By Jimmy Norman (976690) BSc Swansea University&lt;br/&gt;Produced in pursuit of MSc Cyber Security&lt;br/&gt;Licensed under MIT License&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+   </property>
+   <property name="openExternalLinks">
+    <bool>true</bool>
+   </property>
+   <property name="textInteractionFlags">
+    <set>Qt::TextSelectableByMouse</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>70</y>
+     <width>391</width>
+     <height>391</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Help/Information&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;!!THIS PROGRAM SHOULD NOT BE USED AS A MEANS TO SECURE FILES!!&lt;/span&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;&lt;br/&gt;&lt;/span&gt;The purpose of this program is to encode and decode a hard to detect steganograpohic standard to HTML files. The objective of steganography is secrecy not security&lt;br/&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;&lt;br/&gt;Encoding&lt;br/&gt;&lt;/span&gt;To encode a file, load or paste a file into the first scrolling window and enter the plaintext you would like to encode in the box below, then press '&lt;span style=&quot; font-weight:600;&quot;&gt;Encode&lt;/span&gt;'. The result displays in the '&lt;span style=&quot; font-weight:600;&quot;&gt;Encoded HTML&lt;/span&gt;' box&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;&lt;br/&gt;Decoding&lt;br/&gt;&lt;/span&gt;To decode a file an encoded file must be present or loaded into the '&lt;span style=&quot; font-weight:600;&quot;&gt;Encoded HTML&lt;/span&gt;' box, once this box has your desired HTML to decode press the 'Decode' button. The results are displayed in the small box below&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;&lt;br/&gt;Saving&lt;br/&gt;&lt;/span&gt;Encoded HTML and decoded messages can be saved to a file by pressing the associated buttons&lt;br/&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Algorithm Operation&lt;br/&gt;&lt;/span&gt;Due to the nature of the algorithm the length of the plaintext must be smaller or equal to the length in lines of the '&lt;span style=&quot; font-weight:600;&quot;&gt;Base HTML&lt;/span&gt;'. This algorithm also supports a selection of common characters these are:&lt;br/&gt;&lt;br/&gt;Alphabetical&lt;span style=&quot; font-weight:600;&quot;&gt;[a-z]&lt;/span&gt;&lt;br/&gt;Uppercase&lt;span style=&quot; font-weight:600;&quot;&gt;[A-Z]&lt;/span&gt;&lt;br/&gt;Digits&lt;span style=&quot; font-weight:600;&quot;&gt;[0-9]&lt;br/&gt;&lt;/span&gt;Symbols&lt;span style=&quot; font-weight:600;&quot;&gt;[' ', '!', '$', '%', '&amp;amp;', '*', '(', ')', ':', ';', '-', '+', '=', '?', '@', '.']&lt;br/&gt;&lt;br/&gt;Thank you for using my program&lt;br/&gt;contact@: jimnor05@gmail.com/976690@swansea.ac.uk&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+   <property name="textInteractionFlags">
+    <set>Qt::TextSelectableByMouse</set>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>Help</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>248</x>
+     <y>254</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>Help</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>316</x>
+     <y>260</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
