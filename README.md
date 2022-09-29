@@ -1,4 +1,4 @@
-# Y4 Project Steganography scheme
+# Y4 Project HTML Steganography scheme
 Y4 project resources and files (WIP)\
 By Jimmy Norman\
 \
