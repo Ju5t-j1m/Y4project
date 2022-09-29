@@ -4,7 +4,7 @@ By Jimmy Norman\
 \
 Help/Information📜
 !!THIS PROGRAM SHOULD NOT BE USED AS A MEANS TO SECURE FILES!!
-The purpose of this program is to encode and decode a hard to detect steganograpohic standard to HTML files. The objective of steganography is secrecy not security
+The purpose of this program is to encode and decode a hard to detect steganograpohic standard to HTML files. The objective of steganography is secrecy not security\
 \
 Encoding🔒
 To encode a file, load or paste a file into the first scrolling window and enter the plaintext you would like to encode in the box below, then press 'Encode'. The result displays in the 'Encoded HTML' box
