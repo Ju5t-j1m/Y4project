@@ -2,20 +2,20 @@
 Y4 project resources and files (WIP)\
 By Jimmy Norman\
 \
-Help/Information📜
-!!THIS PROGRAM SHOULD NOT BE USED AS A MEANS TO SECURE FILES!!
+Help/Information📜\
+!!THIS PROGRAM SHOULD NOT BE USED AS A MEANS TO SECURE FILES!!\
 The purpose of this program is to encode and decode a hard to detect steganograpohic standard to HTML files. The objective of steganography is secrecy not security\
 \
-Encoding🔒
+Encoding🔒\
 To encode a file, load or paste a file into the first scrolling window and enter the plaintext you would like to encode in the box below, then press 'Encode'. The result displays in the 'Encoded HTML' box\
 \
-Decoding🔓
+Decoding🔓\
 To decode a file an encoded file must be present or loaded into the 'Encoded HTML' box, once this box has your desired HTML to decode press the 'Decode' button. The results are displayed in the small box below\
 \
-Saving💾
+Saving💾\
 Encoded HTML and decoded messages can be saved to a file by pressing the associated buttons\
 \
-Algorithm Operation💻
+Algorithm Operation💻\
 Due to the nature of the algorithm the length of the plaintext must be smaller or equal to the length in lines of the 'Base HTML'. This algorithm also supports a selection of common characters these are:
 \
 Alphabetical[a-z]
