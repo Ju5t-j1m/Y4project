@@ -23,7 +23,9 @@ Uppercase[A-Z]
 Digits[0-9]
 Symbols[' ', '!', '$', '%', '&', '*', '(', ')', ':', ';', '-', '+', '=', '?', '@', '.']\
 \
-Thanks for reading
+Thanks for reading\
+
+![alt text](https://imgur.com/a/M4xEQQj)
 
 \
 Student Info\
