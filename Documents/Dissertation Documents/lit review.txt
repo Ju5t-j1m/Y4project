@@ -1,0 +1,62 @@
+Literature review
+
+Intro topics
+1: https://dbc.wroc.pl/dlibra/publication/144214/edition/75599/content 
+2: https://link.springer.com/chapter/10.1007/3-540-61996-8_27
+3: https://ieeexplore.ieee.org/abstract/document/8085643
+4: https://books.google.co.uk/books?hl=en&lr=&id=JZQLpzihtecC&oi=fnd&pg=PP1&dq=steganography&ots=VVIpbRoMGi&sig=9S5gcRrNGSewT9FG3nDLEL6QB3Y&redir_esc=y#v=onepage&q=steganography&f=false
+
+Various text techniques
+5: https://ieeexplore.ieee.org/abstract/document/4401716
+6: https://ieeexplore.ieee.org/abstract/document/4494159
+7: https://arxiv.org/ftp/arxiv/papers/1203/1203.3644.pdf
+8: https://ieeexplore.ieee.org/abstract/document/7955624
+
+
+HTML based techniques
+9: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.445.2007&rep=rep1&type=pdf
+10: https://www.researchgate.net/publication/259892987_Novel_Steganography_over_HTML_Code
+11: https://doi.org/10.1007/1-4020-5261-8_39
+
+Closest match
+12: https://ieeexplore.ieee.org/abstract/document/4909228
+13: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935180
+14: https://www.researchgate.net/profile/Yee-Por/publication/228623052_Information_hiding_A_new_approach_in_text_steganography/links/02e7e5319b2c7b6937000000/Information-hiding-A-new-approach-in-text-steganography.pdf
+15: https://www.mdpi.com/2227-7390/9/21/2829
+
+
+Applications of techniques
+16: http://iotresaneh.ir/wp-content/uploads/2020/05/Steganography.pdf
+17: https://www.taylorfrancis.com/books/mono/10.1201/9781315121109/digital-watermarking-steganography-fundamentals-techniques-frank-shih
+18: https://books.google.co.uk/books?hl=en&lr=&id=OWhPeGK93VcC&oi=fnd&pg=PR17&dq=steganography+watermarking&ots=0jKp74mGG9&sig=Nq8h9D39SAm4BfCz-fdMvydKT5Y&redir_esc=y#v=onepage&q=steganography%20watermarking&f=false
+19: https://www.sciencedirect.com/science/article/abs/pii/S0164121212001379
+
+Conclusion
+20: https://www.mdpi.com/2076-3417/11/15/6851
+21: https://books.google.co.uk/books?hl=en&lr=&id=Oep-AwAAQBAJ&oi=fnd&pg=PR15&dq=steganography+applications&ots=DE9wcVPtBb&sig=3fxTpBr8qQbpPcPBE3UW5s1vk5g&redir_esc=y#v=onepage&q=steganography%20applications&f=false
+22: https://dl.acm.org/doi/abs/10.1145/2566590.2566610
+23: http://irjes.com/Papers/vol6-issue1/K616871.pdf
+24: https://link.springer.com/chapter/10.1007/3-540-61996-8_28
+---------
+
+
+1. Introduction: Defend the importance of the topic. Give a broad overview of the scope of
+the work you are reviewing. Clarify whether you’re looking at the entire history of the
+field, or just a particular period of time. The purpose and scope of the paper relationship
+to personal project
+
+
+
+2. Body: Summarize the works you are reviewing. Just as in any written assignment, use
+logical organization and clear transitions. Spend more time on the people and works that
+are considered most important in the field and/or that are most relevant.
+
+
+
+3. Conclusion: Predict where research in the field will go next. If you are proposing your
+own research study, show how you will contribute to the field. The conclusion would also
+be a good place to defend the importance of the topic, now that you have demonstrated
+the current state of thinking in the field. 
+
+
+
