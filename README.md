@@ -2,20 +2,29 @@
 Y4 project resources and files (WIP)\
 By Jimmy Norman\
 \
-Directories\
-📁\
--Builds ##General location for files directly associated with the project code\
--Documents ##Files documenting the project to suppport development and completion\
+Help/Information📜
+!!THIS PROGRAM SHOULD NOT BE USED AS A MEANS TO SECURE FILES!!
+The purpose of this program is to encode and decode a hard to detect steganograpohic standard to HTML files. The objective of steganography is secrecy not security
 \
-📁📁\
--(Documents)-Images ##Image files associated with development\
--(Builds)-HTML samples ##HTML files to be Encoded and Decoded(Various sizes and examples)\
--(Builds)-readers ##Files assocaiated with code for reading the Encoded HTML files\
--(Builds)-writers ##Files assocaiated with code for writing Encoded HTML files\
+Encoding🔒
+To encode a file, load or paste a file into the first scrolling window and enter the plaintext you would like to encode in the box below, then press 'Encode'. The result displays in the 'Encoded HTML' box
 \
-📁📁📁\
--(Builds)-(readers)-version 1 ##Version 1 and beta files for code associated with the reader\
--(Builds)-(writers)-version 1 ##Version 1 and beta files for code associated with the writer\
+Decoding🔓
+To decode a file an encoded file must be present or loaded into the 'Encoded HTML' box, once this box has your desired HTML to decode press the 'Decode' button. The results are displayed in the small box below
+\
+Saving💾
+Encoded HTML and decoded messages can be saved to a file by pressing the associated buttons
+\
+Algorithm Operation💻
+Due to the nature of the algorithm the length of the plaintext must be smaller or equal to the length in lines of the 'Base HTML'. This algorithm also supports a selection of common characters these are:
+\
+Alphabetical[a-z]
+Uppercase[A-Z]
+Digits[0-9]
+Symbols[' ', '!', '$', '%', '&', '*', '(', ')', ':', ';', '-', '+', '=', '?', '@', '.']
+\
+Thanks for reading
+
 \
 Student Info\
 Jimmy Norman(BSc) Swansea University (976690)\
